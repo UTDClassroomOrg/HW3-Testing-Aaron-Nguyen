@@ -1,7 +1,7 @@
-### A. Brief Functional Description
+### Brief Functional Description
 The function calculates the average of the first k elements of the integer array list. If k exceeds the array length, the function averages all elements. If the array is empty or k is less than or equal to zero, it returns 0.
 
-### B. Generate functional test case based on functional description.
+### Generate functional test case based on functional description.
 The function average(int k, int[] list) calculates the average of the first k elements of the integer array list. If k is greater than the array's length, it averages all elements. If k <= 0 or the array is empty, it returns 0.
 
 | Test Case ID | Scenario | Input | Expected Output | Reasoning |
